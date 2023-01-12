@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://olympus1.mygreatlearning.com/eportfolio/private/ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5WDJsa0lqbzBOekF3TXpneGZRLmdzTXg4dXBlVGJ1MmpFMGY0ZzVfTXVzcmVCS0h2ZVdZX3lqX0pjX2FHY3M=?pb_id=12644](https://olympus1.mygreatlearning.com/eportfolio/private/ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SjFjMlZ5WDJsa0lqbzBOekF3TXpneGZRLmdzTXg4dXBlVGJ1MmpFMGY0ZzVfTXVzcmVCS0h2ZVdZX3lqX0pjX2FHY3M=?pb_id=12644)
-
 - 📫 How to reach me **dakshmukul15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
